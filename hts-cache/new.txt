@@ -1,7 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-07:46:23	315/315	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2014%20Sep%202022%2011:46:21%20GMT	https://www.genuineundead.com/robots.txt		(from )
-07:46:23	518/518	---M-Z	200	added ('OK')	text/html	etag:%22206-5e108f9f45a04-gzip%22	https://www.genuineundead.com/	C:/My%20Web%20Sites/shaolin%20temple%202/www.genuineundead.com/index.html	(from )
-07:46:23	471/471	---M--	200	added ('OK')	image/png	etag:%221d7-5e108f9f12d81%22	https://www.genuineundead.com/build/images/fav.png	C:/My%20Web%20Sites/shaolin%20temple%202/www.genuineundead.com/build/images/fav.png	(from https://www.genuineundead.com/)
-07:46:23	33373/33373	---M--	200	added ('OK')	text/css	etag:%22825d-5e108f973040f%22	https://www.genuineundead.com/build/main.css	C:/My%20Web%20Sites/shaolin%20temple%202/www.genuineundead.com/build/main.css	(from https://www.genuineundead.com/)
-07:46:23	798510/798510	---M--	200	added ('OK')	application/javascript	etag:%22c2f2e-5e108f98524c4%22	https://www.genuineundead.com/build/main.js	C:/My%20Web%20Sites/shaolin%20temple%202/www.genuineundead.com/build/main.js	(from https://www.genuineundead.com/)
-07:46:24	3966891/3966891	---M--	200	added ('OK')	image/gif	etag:%223c87ab-5e108f9d43f1f%22	https://www.genuineundead.com/build/images/logo.gif	C:/My%20Web%20Sites/shaolin%20temple%202/www.genuineundead.com/build/images/logo.gif	(from https://www.genuineundead.com/)
